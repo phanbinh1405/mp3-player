@@ -16,6 +16,16 @@ const songs = [
     avatar:
       "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/2/329fdc7eb248832ef6529d92db0e7eec_1497439510.jpg",
   },
+  {
+    name: "Chuyện Đôi Ta",
+    link: "https://data.chiasenhac.com/down2/2210/0/2209552-9f7bd2fd/128/Chuyen%20Doi%20Ta%20-%20Emcee%20L_%20Muoii.mp3",
+    avatar: "https://data.chiasenhac.com/data/cover/151/150812.jpg",
+  },
+  {
+    name: "Lạnh Lùng",
+    link: "https://data.chiasenhac.com/down2/2162/0/2161954-d48f235d/128/lanh%20lung%20-%20my%20tam.mp3",
+    avatar: "https://i.ytimg.com/vi/tyG-8fD694Q/maxresdefault.jpg",
+  },
 ];
 
 let indexMusic = 1;
