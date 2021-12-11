@@ -1,18 +1,18 @@
 const songs = [
   {
     name: "Có hẹn với bầu trời",
-    link: "https://vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn/d65745b4cdf324ad7de2/668359467898601539?authen=exp=1639408418~acl=/d65745b4cdf324ad7de2/*~hmac=026524ae6384f65023be29d6a5898b24&fs=MTYzOTIzNTYxODEzMXx3ZWJWNnwwfDQyLjExNS43My4xMDE",
+    link: "https://data17.chiasenhac.com/downloads/2150/0/2149570-63aa97a2/128/Co%20Hen%20Voi%20Bau%20Troi%20-%20Da%20LAB.mp3",
     avatar:
       "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/f/1/c/7f1ccb9461353370aa320060fbd5d547.jpg",
   },
   {
     name: "Thở",
-    link: "https://mp3-s1-zmp3.zadn.vn/e7d50099c7de2e8077cf/5966541326435079144?authen=exp=1639411032~acl=/e7d50099c7de2e8077cf/*~hmac=937ca2542ac0ba78ed923ba7f0620612&fs=MTYzOTIzODIzMjQ0Mnx3ZWJWNnwwfDE3MS4yMjUdUngMjU1LjY4",
+    link: "https://data.chiasenhac.com/down2/2165/0/2164148-0c735066/128/Tho%20-%20Da%20LAB_%20Juky%20San.mp3",
     avatar: "https://i.ytimg.com/vi/pISLmTTklmQ/maxresdefault.jpg",
   },
   {
     name: "Từ Ngày Em Đến",
-    link: "https://mp3-s1-zmp3.zadn.vn/efad11d2c99620c87987/2245834307933820373?authen=exp=1639411265~acl=/efad11d2c99620c87987/*~hmac=be7e4c5f2e6349f6cd0de4ad335a358e&fs=MTYzOTIzODQ2NTY1NHx3ZWJWNnwwfDQ1LjEyNi45NS4z",
+    link: "https://data3.chiasenhac.com/downloads/1798/0/1797216-1300ac3f/320/Tu%20Ngay%20Em%20Den%20-%20Da%20LAB.mp3",
     avatar:
       "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/2/329fdc7eb248832ef6529d92db0e7eec_1497439510.jpg",
   },
