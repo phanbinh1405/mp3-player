@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Music Player</title>
+    <meta charset="UTF-8" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+
+  <body>
+    <div id="app">
+      <div class="dashboard">
+        <header>
+          <h4>Now playing:</h4>
+          <h2></h2>
+        </header>
+        <div class="cd-thumb">
+          <img src="" alt="" />
+        </div>
+      </div>
+
+      <div class="music-player">
+        <div class="progress-bar">
+          <div class="current-progress"><span></span></div>
+          <div class="timer">
+            <span class="current-time"></span>
+            <span class="duration-time"></span>
+          </div>
+          <audio id='main-audio' src=""></audio>
+        </div>
+        <div class="controls">
+          <div class="btn btn-suffle"><ion-icon name="shuffle"></ion-icon></div>
+          <div class="btn btn-playback">
+            <ion-icon name="play-back"></ion-icon>
+          </div>
+          <div class="btn btn-toggle-play">
+            <ion-icon name="play"></ion-icon>
+          </div>
+          <div class="btn btn-playnext">
+            <ion-icon name="play-forward"></ion-icon>
+          </div>
+          <div class="btn btn-repeat"><ion-icon name="repeat"></ion-icon></div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <script src="src/index.js"></script>
+  </body>
+</html>
